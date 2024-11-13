@@ -1,0 +1,12 @@
+/home/student/projects/sol/BC/hacker_news/build/linux/x64/debug/bundle/hacker_news
+/home/student/projects/sol/BC/hacker_news/build/linux/x64/debug/bundle/data/icudtl.dat
+/home/student/projects/sol/BC/hacker_news/build/linux/x64/debug/bundle/lib/libflutter_linux_gtk.so
+/home/student/projects/sol/BC/hacker_news/build/linux/x64/debug/bundle/data/flutter_assets/kernel_blob.bin
+/home/student/projects/sol/BC/hacker_news/build/linux/x64/debug/bundle/data/flutter_assets/FontManifest.json
+/home/student/projects/sol/BC/hacker_news/build/linux/x64/debug/bundle/data/flutter_assets/AssetManifest.json
+/home/student/projects/sol/BC/hacker_news/build/linux/x64/debug/bundle/data/flutter_assets/fonts/MaterialIcons-Regular.otf
+/home/student/projects/sol/BC/hacker_news/build/linux/x64/debug/bundle/data/flutter_assets/version.json
+/home/student/projects/sol/BC/hacker_news/build/linux/x64/debug/bundle/data/flutter_assets/AssetManifest.bin
+/home/student/projects/sol/BC/hacker_news/build/linux/x64/debug/bundle/data/flutter_assets/NOTICES.Z
+/home/student/projects/sol/BC/hacker_news/build/linux/x64/debug/bundle/data/flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf
+/home/student/projects/sol/BC/hacker_news/build/linux/x64/debug/bundle/data/flutter_assets/shaders/ink_sparkle.frag

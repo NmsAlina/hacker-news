@@ -1,0 +1,14 @@
+com.example.hacker_news.app-jetified-window-1.0.0-beta04-0 /home/student/.gradle/caches/transforms-3/032f4dff274e516110d9363a9793a3e3/transformed/jetified-window-1.0.0-beta04/res
+com.example.hacker_news.app-jetified-window-java-1.0.0-beta04-1 /home/student/.gradle/caches/transforms-3/142c24f2530665bb6deb4123ab140714/transformed/jetified-window-java-1.0.0-beta04/res
+com.example.hacker_news.app-core-1.6.0-2 /home/student/.gradle/caches/transforms-3/2579a7de00054bf46a8dbc332552f622/transformed/core-1.6.0/res
+com.example.hacker_news.app-jetified-annotation-experimental-1.1.0-3 /home/student/.gradle/caches/transforms-3/3f96ca76068ab400b494bc7d541ee256/transformed/jetified-annotation-experimental-1.1.0/res
+com.example.hacker_news.app-webkit-1.5.0-4 /home/student/.gradle/caches/transforms-3/f99dc48b3ea8edae36406ebb90659a14/transformed/webkit-1.5.0/res
+com.example.hacker_news.app-debug-5 /home/student/projects/mob piscine/group raid/hacker-news/android/app/src/debug/res
+com.example.hacker_news.app-main-6 /home/student/projects/mob piscine/group raid/hacker-news/android/app/src/main/res
+com.example.hacker_news.app-pngs-7 /home/student/projects/mob piscine/group raid/hacker-news/build/app/generated/res/pngs/debug
+com.example.hacker_news.app-resValues-8 /home/student/projects/mob piscine/group raid/hacker-news/build/app/generated/res/resValues/debug
+com.example.hacker_news.app-rs-9 /home/student/projects/mob piscine/group raid/hacker-news/build/app/generated/res/rs/debug
+com.example.hacker_news.app-mergeDebugResources-10 /home/student/projects/mob piscine/group raid/hacker-news/build/app/intermediates/incremental/debug/mergeDebugResources/merged.dir
+com.example.hacker_news.app-mergeDebugResources-11 /home/student/projects/mob piscine/group raid/hacker-news/build/app/intermediates/incremental/debug/mergeDebugResources/stripped.dir
+com.example.hacker_news.app-merged_res-12 /home/student/projects/mob piscine/group raid/hacker-news/build/app/intermediates/merged_res/debug
+com.example.hacker_news.app-packaged_res-13 /home/student/projects/mob piscine/group raid/hacker-news/build/webview_flutter_android/intermediates/packaged_res/debug
